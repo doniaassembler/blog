@@ -1,5 +1,5 @@
 baseURL = "https://sysarmy.com/blog/"
-languageCode = "en-us"
+locale = "en-us"
 theme = "hello-friend"
 publishDir = "/"
 MetaDataFormat = "toml"
